@@ -1,0 +1,4 @@
+(executable
+ (public_name jsonm_with_effects)
+ (name main)
+ (libraries jsonm_with_effects jsonm))
